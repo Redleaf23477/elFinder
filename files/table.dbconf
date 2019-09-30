@@ -1,0 +1,8 @@
+{
+    "filename" : "sth.xxx.dbconf",
+    "sql": "pgsql",
+    "database" : "database_name",
+    "user" : "username_to_login_database",
+    "pass" : "password_to_login_database",
+    "tablename" : "table to query" 
+}
